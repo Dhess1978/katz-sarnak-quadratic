@@ -1,0 +1,50 @@
+{
+ "format": "MAYAN_V1008_KS_KONTROLA_v1",
+ "manifest_sha256": "82fbd4dffc93aaa91b4ae4834a4498b9e20ed614ec8ad657f0e277b9e55e44cb",
+ "rodiny": {
+  "C10": {
+   "bloku": 50,
+   "bloku_celkem": 50,
+   "sha_ok": 50,
+   "L": 60795,
+   "duplicit": 0,
+   "uplne": true,
+   "chybnych_rad": 0,
+   "nul_do_4_na_L": 4.0123,
+   "v_poradku": true
+  },
+  "D10": {
+   "bloku": 50,
+   "bloku_celkem": 50,
+   "sha_ok": 50,
+   "L": 6081,
+   "duplicit": 0,
+   "uplne": true,
+   "chybnych_rad": 0,
+   "nul_do_4_na_L": 3.9868,
+   "v_poradku": true
+  },
+  "E": {
+   "bloku": 100,
+   "bloku_celkem": 100,
+   "sha_ok": 100,
+   "L": 1206,
+   "duplicit": 0,
+   "uplne": true,
+   "chybnych_rad": 0,
+   "nul_do_4_na_L": 3.976,
+   "v_poradku": true
+  },
+  "R": {
+   "bloku": 24,
+   "bloku_celkem": 24,
+   "sha_ok": 24,
+   "L": 6000,
+   "duplicit": 0,
+   "uplne": true,
+   "chybnych_rad": 0,
+   "nul_do_4_na_L": 4.0042,
+   "v_poradku": true
+  }
+ }
+}

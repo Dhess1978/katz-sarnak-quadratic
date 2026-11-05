@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+type: dataset
+title: "Low-lying zeros of 795,381 quadratic Dirichlet L-functions up to conductor 1e10: the ratios conjecture, consecutive families and the first zero - a reproducible numerical study III"
+version: "1.0"
+date-released: "2026-11-04"
+license: ["CC-BY-4.0", "MIT"]
+repository-code: "https://github.com/Dhess1978/katz-sarnak-quadratic"
+authors:
+  - family-names: "Hess"
+    given-names: "David"
+    affiliation: "MAYAN ALFA V1008 LAB v.34.68e"
+keywords: ["quadratic Dirichlet L-functions", "low-lying zeros", "one-level density", "Katz-Sarnak", "symplectic symmetry", "ratios conjecture", "random matrix theory", "USp", "first zero", "explicit formula", "PARI/GP"]
+references:
+  - type: generic
+    title: "Berry saturation and the statistics of the Riemann zeros from t ~ 1e4 to 1e21: a reproducible numerical study"
+    authors:
+      - family-names: "Hess"
+        given-names: "David"
+    year: 2026
+    doi: "10.5281/zenodo.23815328"
+  - type: generic
+    title: "Beyond the diagonal approximation: pair correlation, form factor and resonances of the Riemann zeros from t ~ 1e4 to 1e21 - a reproducible numerical study II"
+    authors:
+      - family-names: "Hess"
+        given-names: "David"
+    year: 2026
+    doi: "10.5281/zenodo.23928017"

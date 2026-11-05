@@ -1,0 +1,29 @@
+{
+ "family": "B10",
+ "n_family": 54700,
+ "sample": 3000,
+ "seed": 1,
+ "divz_data": 8,
+ "divz_check": 64,
+ "same_as_data": 3000,
+ "missing_L": 1,
+ "missing_zeros": 2,
+ "examples": [
+  {
+   "D": -78671,
+   "t_missing": [
+    2.1687,
+    2.1831
+   ],
+   "x_missing": [
+    3.3066,
+    3.33
+   ]
+  }
+ ],
+ "missing_x": [
+  3.30662176972223,
+  3.32996808051115
+ ],
+ "seconds": 170
+}

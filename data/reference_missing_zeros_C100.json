@@ -1,0 +1,14 @@
+{
+ "family": "C100",
+ "n_family": 607941,
+ "sample": 3000,
+ "seed": 1,
+ "divz_data": 8,
+ "divz_check": 64,
+ "same_as_data": 3000,
+ "missing_L": 0,
+ "missing_zeros": 0,
+ "examples": [],
+ "missing_x": [],
+ "seconds": 737
+}

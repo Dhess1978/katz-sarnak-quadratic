@@ -1,0 +1,88 @@
+{
+ "format": "MAYAN_V1008_KS_NULY_v1",
+ "prostredi": {
+  "python": "3.13.18",
+  "system": "Linux",
+  "stroj": "x86_64",
+  "pari": "(2, 17, 2)",
+  "cypari2": "?",
+  "skript_sha256": "f5ee5e10c1aec39ca3daa2fa58e45d72c465cabc12c906d609b3d039f377bce6"
+ },
+ "xmax": 4.3,
+ "rodiny": {
+  "A": {
+   "spec": {
+    "typ": "rozsah",
+    "lo": 1000,
+    "hi": 3000,
+    "blok": 2000,
+    "popis": "kalibrace: táž rodina jako v laboratoři 34.60 a 34.61 (1 213 L)"
+   },
+   "bloky": {
+    "1000": {
+     "soubor": "blok_000000.jsonl.gz",
+     "sha256": "e0ff762a7c2051dc10073288363dfeef8719f8c3347b8b9860807007610b2236",
+     "nL": 1213,
+     "nnul": 5209,
+     "sekund": 7.71
+    }
+   },
+   "bloku_celkem": 1
+  },
+  "B": {
+   "spec": {
+    "typ": "rozsah",
+    "lo": 10000,
+    "hi": 20000,
+    "blok": 2000,
+    "popis": "kalibrace: táž rodina jako v laboratoři 34.60 a 34.61 (6 074 L)"
+   },
+   "bloky": {
+    "10000": {
+     "soubor": "blok_000005.jsonl.gz",
+     "sha256": "f20e4cf649454a56aaf0ef78c7e054e10b981c2f11785ed5716b5bbcce5acb37",
+     "nL": 1208,
+     "nnul": 5227,
+     "sekund": 11.99
+    },
+    "12000": {
+     "soubor": "blok_000006.jsonl.gz",
+     "sha256": "5222820473a3b0886ac0350581ab9e0193c85b8ef4b96ec6efcd7f08423bdde1",
+     "nL": 1223,
+     "nnul": 5318,
+     "sekund": 12.62
+    },
+    "14000": {
+     "soubor": "blok_000007.jsonl.gz",
+     "sha256": "5b57cd3907119c762d5536bd012cbb1d70ba4954343a63027d2f4ad841e3c278",
+     "nL": 1211,
+     "nnul": 5266,
+     "sekund": 12.54
+    },
+    "16000": {
+     "soubor": "blok_000008.jsonl.gz",
+     "sha256": "d391d4e54d6f0a998c4c967b1682a0ad676121ccee1d9a96121937059acfd076",
+     "nL": 1215,
+     "nnul": 5270,
+     "sekund": 13.27
+    },
+    "18000": {
+     "soubor": "blok_000009.jsonl.gz",
+     "sha256": "61c5decaa23c0f30f9cd2a6ee401f134ca2bd78818965f3fe99e4046d109189f",
+     "nL": 1217,
+     "nnul": 5274,
+     "sekund": 13.61
+    }
+   },
+   "bloku_celkem": 5
+  }
+ },
+ "prostredi_posledni": {
+  "python": "3.13.18",
+  "system": "Linux",
+  "stroj": "x86_64",
+  "pari": "(2, 17, 2)",
+  "cypari2": "?",
+  "skript_sha256": "f5ee5e10c1aec39ca3daa2fa58e45d72c465cabc12c906d609b3d039f377bce6"
+ }
+}

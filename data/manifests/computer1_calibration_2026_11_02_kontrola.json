@@ -1,0 +1,28 @@
+{
+ "format": "MAYAN_V1008_KS_KONTROLA_v1",
+ "manifest_sha256": "d7f00e62a3f4ef182491205e29d07997e1e64bbc0124edf42287db545a19d9a4",
+ "rodiny": {
+  "A": {
+   "bloku": 1,
+   "bloku_celkem": 1,
+   "sha_ok": 1,
+   "L": 1213,
+   "duplicit": 0,
+   "uplne": true,
+   "chybnych_rad": 0,
+   "nul_do_4_na_L": 4.0124,
+   "v_poradku": true
+  },
+  "B": {
+   "bloku": 5,
+   "bloku_celkem": 5,
+   "sha_ok": 5,
+   "L": 6074,
+   "duplicit": 0,
+   "uplne": true,
+   "chybnych_rad": 0,
+   "nul_do_4_na_L": 4.0255,
+   "v_poradku": true
+  }
+ }
+}

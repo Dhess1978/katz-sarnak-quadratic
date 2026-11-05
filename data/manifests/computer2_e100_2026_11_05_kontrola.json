@@ -1,0 +1,17 @@
+{
+ "format": "MAYAN_V1008_KS_KONTROLA_v1",
+ "manifest_sha256": "1ec447734db285cc6cc2b6f423412f6926cea39ee6906f6cccb6e9f5c0f73a6c",
+ "rodiny": {
+  "E100": {
+   "bloku": 900,
+   "bloku_celkem": 900,
+   "sha_ok": 900,
+   "L": 109404,
+   "duplicit": 0,
+   "uplne": true,
+   "chybnych_rad": 0,
+   "nul_do_4_na_L": 3.9668,
+   "v_poradku": true
+  }
+ }
+}
