@@ -2,6 +2,8 @@
 
 **David Hess (MAYAN ALFA V1008 LAB v.34.68e) · 5.11.2026** · [English version](README.md)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23991165.svg)](https://doi.org/10.5281/zenodo.23991165) Zenodo: [doi:10.5281/zenodo.23991165](https://doi.org/10.5281/zenodo.23991165)
+
 Třetí studie řady, po studii *Berryho saturace a statistika nul Riemannovy zeta funkce* (Zenodo, [doi:10.5281/zenodo.23815328](https://doi.org/10.5281/zenodo.23815328)) a *Za diagonální aproximací* (studie II; Zenodo, [doi:10.5281/zenodo.23928017](https://doi.org/10.5281/zenodo.23928017)). Přechází od Riemannovy zeta funkce k rodině kvadratických Dirichletových L-funkcí L(s, χ_D) z oddílu 6 přehledu Berryho a Keatinga (1999): jedenáct rodin základních diskriminantů od |D| ≈ 10³ do 10¹⁰, 795 381 L-funkcí, nízké nuly spočtené v PARI/GP na dvou počítačích (69 452 L-funkcí spočtených na obou má shodné nuly). Jednohladinová hustota rozvinutých nul x = θ_D(γ)/π se srovnává s limitou Katze a Sarnaka USp, s konečnou maticí USp(2N) a s domněnkou poměrů Conreyho, Farmera a Zirnbauera ve tvaru Conreyho a Snaithové (2007), vyčíslenou pro každý diskriminant bez volného parametru.
 
 | výsledek | hodnota |
@@ -90,4 +92,4 @@ Text, obrázky a data: CC BY 4.0 (`LICENSE-CC-BY-4.0.md`). Kód: MIT (`LICENSE`)
 
 ## Citace
 
-Viz `CITATION.cff`. Předchozí studie: Hess, D. (2026), Berry saturation and the statistics of the Riemann zeros from t ≈ 10⁴ to 10²¹: a reproducible numerical study, Zenodo, doi:10.5281/zenodo.23815328; Hess, D. (2026), Beyond the diagonal approximation: pair correlation, form factor and resonances of the Riemann zeros from t ≈ 10⁴ to 10²¹ — a reproducible numerical study II, Zenodo, doi:10.5281/zenodo.23928017.
+Viz `CITATION.cff`. Tato studie: Hess, D. (2026), Low-lying zeros of 795,381 quadratic Dirichlet L-functions up to conductor 10¹⁰: the ratios conjecture, consecutive families and the first zero — a reproducible numerical study III, Zenodo, [doi:10.5281/zenodo.23991165](https://doi.org/10.5281/zenodo.23991165). Předchozí studie: Hess, D. (2026), Berry saturation and the statistics of the Riemann zeros from t ≈ 10⁴ to 10²¹: a reproducible numerical study, Zenodo, doi:10.5281/zenodo.23815328; Hess, D. (2026), Beyond the diagonal approximation: pair correlation, form factor and resonances of the Riemann zeros from t ≈ 10⁴ to 10²¹ — a reproducible numerical study II, Zenodo, doi:10.5281/zenodo.23928017.
